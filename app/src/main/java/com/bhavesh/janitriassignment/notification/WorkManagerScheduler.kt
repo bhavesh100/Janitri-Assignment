@@ -6,7 +6,7 @@ import java.util.concurrent.TimeUnit
 
 object WorkManagerScheduler {
     fun scheduleVitalsReminder(context: Context) {
-            val workRequest = PeriodicWorkRequestBuilder<VitalsReminderWorker>(15, TimeUnit.MINUTES)
+            val workRequest = PeriodicWorkRequestBuilder<VitalsReminderWorker>(5, TimeUnit.HOURS)
             .setConstraints(
                 Constraints.Builder()
                     .setRequiresBatteryNotLow(true)
