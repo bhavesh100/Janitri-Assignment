@@ -32,6 +32,9 @@ Objective: A Jetpack Compose app that allows users to log and track pregnancy-re
 - Database: Room  
 - State Management: StateFlow / LiveData  
 - Background Work: WorkManager
+  
+# 📥 APK Download  
+🔗 [Download APK](https://1drv.ms/f/s!Arg_CwR6LDe8gV50vI_2DtzM5F42?e=77YMkH)  
 
 ## 📦 Setup & Usage  
 
