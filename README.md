@@ -30,7 +30,7 @@ Objective: A Jetpack Compose app that allows users to log and track pregnancy-re
 - UI: Jetpack Compose  
 - Architecture: MVVM  
 - Database: Room  
-- State Management: StateFlow / LiveData  
+- State Management: StateFlow
 - Background Work: WorkManager
   
 # 📥 APK Download  
